@@ -1,0 +1,15 @@
+@font-face{
+  font-family: 'Cloud-Bold';
+  src: url(../fonts/Cloud/Cloud-Bold.otf);
+}
+
+@font-face{
+  font-family: 'Cloud-Light';
+  src: url(../fonts/Cloud/Cloud-Light.otf);
+}
+
+body{
+	background-image: url(../img/bg_1.jpg);
+	background-attachment: fixed;
+	font-family: Cloud-Light;
+}
